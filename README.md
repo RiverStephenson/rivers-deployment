@@ -8,6 +8,10 @@ This project is working code used for CI/CD deployment.
 
 GitHub Link: https://github.com/RiverStephenson/rivers-deployment
 
+## Usage
+
+Deployed Site: https://rivers-cicd-deployment.onrender.com
+
 ## Credits
 
 The wonderful TAs and Dan the Man
